@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prateekscode
+- 👋 Hi, I’m Prateek!
 - 👀 I’m interested in java coding.
 - 🌱 I’m currently learning java.
 - 💞️ I’m looking to collaborate on java projects.
